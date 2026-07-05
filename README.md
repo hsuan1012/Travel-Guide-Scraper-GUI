@@ -3,7 +3,7 @@
 [![Framework](https://img.shields.io/badge/Framework-Tkinter-orange.svg)](https://docs.python.org/3/library/tkinter.html)
 [![Scraper](https://img.shields.io/badge/Scraper-Selenium-green.svg)](https://www.selenium.dev/)
 
-這是一個結合**動態網頁爬蟲（Web Scraping）**與**圖形使用者介面（GUI）**的 Python 整合專案。系統會自動前往「誠品書店」爬取全球各區域最新、最熱門的旅遊書籍資訊，並透過一鍵式圖形介面，讓使用者能流暢地根據「區域」與「地點」連動檢索出推薦書單與作者。
+這是一個結合動態網頁爬蟲（Web Scraping）與圖形使用者介面（GUI）的 Python 整合專案。系統會自動前往「誠品書店」爬取全球各區域最新、最熱門的旅遊書籍資訊，並透過一鍵式圖形介面，讓使用者能流暢地根據「區域」與「地點」連動檢索出推薦書單與作者。
 
 ---
 
